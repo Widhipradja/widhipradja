@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub Profile!
 
-<!--
-**Widhipradja/widhipradja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Widhipradja**, a passionate developer and researcher who loves solving problems, building innovative solutions, and learning new technologies.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 I’m currently learning **Go** for backend development and **HTMX** for enhancing frontend interactivity.
+- 👯 I’m looking to collaborate on **research initiatives**.
+- 📫 How to reach me: **[dewanta@gmail.com](mailto:dewanta@gmail.com)**.
+- ⚡ Fun fact: I am starting to love **[Easy Run, Tracking]** and exploring new ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** JavaScript, C#, Go
+- **Frameworks & Libraries:** Angular, Vue, HTMX
+- **Tools:** Git, Docker, Jenkins
+- **Other Skills:** DevOps, AWS Serverless
+
+### 📈 GitHub Stats
+![Widhipradja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=widhipradja&show_icons=true&theme=radical)
+
+### 🌟 Current & Upcoming Projects
+- [**Flow App**](#): A robust application for managing and automating workflows, built with **Go** and enhanced with **HTMX** for seamless interactivity. *(In Progress)*
+- [**Event Tracking App**](#): A dynamic app for tracking and analyzing events in real-time, leveraging the power of **Go** and **HTMX**. *(In Progress)*
+- [**Generus Development Tracker**](#): An educational app designed to monitor and document children's progress, including achievements and attendance, helping educators and parents stay informed and engaged. *(Upcoming)*
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/dewanta-widhipradja-78403654)
+<!-- - [LinkedIn](#)
+- [Twitter](#)
+- [Portfolio](#) -->
+
+Thanks for stopping by! 😊
